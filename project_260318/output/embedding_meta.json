@@ -1,0 +1,882 @@
+[
+  {
+    "prompt_id": "prompt_01",
+    "participant_id": "P1",
+    "turn": "turn_01",
+    "participant_group": "FD",
+    "prompt_type": "initial",
+    "geft_score": "14"
+  },
+  {
+    "prompt_id": "prompt_02",
+    "participant_id": "P1",
+    "turn": "turn_02",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "14"
+  },
+  {
+    "prompt_id": "prompt_03",
+    "participant_id": "P1",
+    "turn": "turn_03",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "14"
+  },
+  {
+    "prompt_id": "prompt_04",
+    "participant_id": "P1",
+    "turn": "turn_04",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "14"
+  },
+  {
+    "prompt_id": "prompt_05",
+    "participant_id": "P1",
+    "turn": "turn_05",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "14"
+  },
+  {
+    "prompt_id": "prompt_06",
+    "participant_id": "P2",
+    "turn": "turn_01",
+    "participant_group": "FD",
+    "prompt_type": "initial",
+    "geft_score": "15"
+  },
+  {
+    "prompt_id": "prompt_07",
+    "participant_id": "P2",
+    "turn": "turn_02",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "15"
+  },
+  {
+    "prompt_id": "prompt_08",
+    "participant_id": "P2",
+    "turn": "turn_03",
+    "participant_group": "FD",
+    "prompt_type": "selection",
+    "geft_score": "15"
+  },
+  {
+    "prompt_id": "prompt_09",
+    "participant_id": "P2",
+    "turn": "turn_04",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "15"
+  },
+  {
+    "prompt_id": "prompt_10",
+    "participant_id": "P2",
+    "turn": "turn_05",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "15"
+  },
+  {
+    "prompt_id": "prompt_11",
+    "participant_id": "P2",
+    "turn": "turn_06",
+    "participant_group": "FD",
+    "prompt_type": "selection",
+    "geft_score": "15"
+  },
+  {
+    "prompt_id": "prompt_12",
+    "participant_id": "P2",
+    "turn": "turn_07",
+    "participant_group": "FD",
+    "prompt_type": "selection",
+    "geft_score": "15"
+  },
+  {
+    "prompt_id": "prompt_13",
+    "participant_id": "P2",
+    "turn": "turn_08",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "15"
+  },
+  {
+    "prompt_id": "prompt_14",
+    "participant_id": "P2",
+    "turn": "turn_09",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "15"
+  },
+  {
+    "prompt_id": "prompt_15",
+    "participant_id": "P3",
+    "turn": "turn_01",
+    "participant_group": "FI",
+    "prompt_type": "initial",
+    "geft_score": "16"
+  },
+  {
+    "prompt_id": "prompt_16",
+    "participant_id": "P3",
+    "turn": "turn_02",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "16"
+  },
+  {
+    "prompt_id": "prompt_17",
+    "participant_id": "P4",
+    "turn": "turn_01",
+    "participant_group": "FD",
+    "prompt_type": "initial",
+    "geft_score": "10"
+  },
+  {
+    "prompt_id": "prompt_17",
+    "participant_id": "P4",
+    "turn": "turn_01",
+    "participant_group": "FD",
+    "prompt_type": "initial",
+    "geft_score": "10"
+  },
+  {
+    "prompt_id": "prompt_18",
+    "participant_id": "P4",
+    "turn": "turn_02",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "10"
+  },
+  {
+    "prompt_id": "prompt_19",
+    "participant_id": "P4",
+    "turn": "turn_03",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "10"
+  },
+  {
+    "prompt_id": "prompt_20",
+    "participant_id": "P5",
+    "turn": "turn_01",
+    "participant_group": "FI",
+    "prompt_type": "initial",
+    "geft_score": "16"
+  },
+  {
+    "prompt_id": "prompt_21",
+    "participant_id": "P5",
+    "turn": "turn_02",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "16"
+  },
+  {
+    "prompt_id": "prompt_22",
+    "participant_id": "P5",
+    "turn": "turn_03",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "16"
+  },
+  {
+    "prompt_id": "prompt_23",
+    "participant_id": "P5",
+    "turn": "turn_04",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "16"
+  },
+  {
+    "prompt_id": "prompt_24",
+    "participant_id": "P5",
+    "turn": "turn_05",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "16"
+  },
+  {
+    "prompt_id": "prompt_25",
+    "participant_id": "P5",
+    "turn": "turn_06",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "16"
+  },
+  {
+    "prompt_id": "prompt_26",
+    "participant_id": "P5",
+    "turn": "turn_07",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "16"
+  },
+  {
+    "prompt_id": "prompt_27",
+    "participant_id": "P5",
+    "turn": "turn_08",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "16"
+  },
+  {
+    "prompt_id": "prompt_28",
+    "participant_id": "P5",
+    "turn": "turn_09",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "16"
+  },
+  {
+    "prompt_id": "prompt_29",
+    "participant_id": "P6",
+    "turn": "turn_01",
+    "participant_group": "FI",
+    "prompt_type": "initial",
+    "geft_score": "17"
+  },
+  {
+    "prompt_id": "prompt_30",
+    "participant_id": "P6",
+    "turn": "turn_02",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "17"
+  },
+  {
+    "prompt_id": "prompt_31",
+    "participant_id": "P7",
+    "turn": "turn_01",
+    "participant_group": "FD",
+    "prompt_type": "initial",
+    "geft_score": "8"
+  },
+  {
+    "prompt_id": "prompt_32",
+    "participant_id": "P7",
+    "turn": "turn_02",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "8"
+  },
+  {
+    "prompt_id": "prompt_33",
+    "participant_id": "P7",
+    "turn": "turn_03",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "8"
+  },
+  {
+    "prompt_id": "prompt_34",
+    "participant_id": "P7",
+    "turn": "turn_04",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "8"
+  },
+  {
+    "prompt_id": "prompt_35",
+    "participant_id": "P7",
+    "turn": "turn_05",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "8"
+  },
+  {
+    "prompt_id": "prompt_36",
+    "participant_id": "P7",
+    "turn": "turn_06",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "8"
+  },
+  {
+    "prompt_id": "prompt_37",
+    "participant_id": "P7",
+    "turn": "turn_07",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "8"
+  },
+  {
+    "prompt_id": "prompt_38",
+    "participant_id": "P7",
+    "turn": "turn_08",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "8"
+  },
+  {
+    "prompt_id": "prompt_39",
+    "participant_id": "P7",
+    "turn": "turn_09",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "8"
+  },
+  {
+    "prompt_id": "prompt_40",
+    "participant_id": "P7",
+    "turn": "turn_10",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "8"
+  },
+  {
+    "prompt_id": "prompt_41",
+    "participant_id": "P7",
+    "turn": "turn_11",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "8"
+  },
+  {
+    "prompt_id": "prompt_42",
+    "participant_id": "P8",
+    "turn": "turn_01",
+    "participant_group": "FI",
+    "prompt_type": "initial",
+    "geft_score": "18"
+  },
+  {
+    "prompt_id": "prompt_43",
+    "participant_id": "P8",
+    "turn": "turn_02",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "18"
+  },
+  {
+    "prompt_id": "prompt_44",
+    "participant_id": "P9",
+    "turn": "turn_01",
+    "participant_group": "FD",
+    "prompt_type": "initial",
+    "geft_score": "12"
+  },
+  {
+    "prompt_id": "prompt_45",
+    "participant_id": "P9",
+    "turn": "turn_02",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "12"
+  },
+  {
+    "prompt_id": "prompt_46",
+    "participant_id": "P9",
+    "turn": "turn_03",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "12"
+  },
+  {
+    "prompt_id": "prompt_47",
+    "participant_id": "P9",
+    "turn": "turn_04",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "12"
+  },
+  {
+    "prompt_id": "prompt_48",
+    "participant_id": "P9",
+    "turn": "turn_05",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "12"
+  },
+  {
+    "prompt_id": "prompt_49",
+    "participant_id": "P9",
+    "turn": "turn_06",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "12"
+  },
+  {
+    "prompt_id": "prompt_50",
+    "participant_id": "P9",
+    "turn": "turn_07",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "12"
+  },
+  {
+    "prompt_id": "prompt_51",
+    "participant_id": "P10",
+    "turn": "turn_01",
+    "participant_group": "FD",
+    "prompt_type": "initial",
+    "geft_score": "10"
+  },
+  {
+    "prompt_id": "prompt_52",
+    "participant_id": "P10",
+    "turn": "turn_02",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "10"
+  },
+  {
+    "prompt_id": "prompt_53",
+    "participant_id": "P11",
+    "turn": "turn_01",
+    "participant_group": "FI",
+    "prompt_type": "initial",
+    "geft_score": "16"
+  },
+  {
+    "prompt_id": "prompt_54",
+    "participant_id": "P11",
+    "turn": "turn_02",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "16"
+  },
+  {
+    "prompt_id": "prompt_55",
+    "participant_id": "P11",
+    "turn": "turn_03",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "16"
+  },
+  {
+    "prompt_id": "prompt_56",
+    "participant_id": "P11",
+    "turn": "turn_04",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "16"
+  },
+  {
+    "prompt_id": "prompt_57",
+    "participant_id": "P12",
+    "turn": "turn_01",
+    "participant_group": "FI",
+    "prompt_type": "initial",
+    "geft_score": "18"
+  },
+  {
+    "prompt_id": "prompt_58",
+    "participant_id": "P12",
+    "turn": "turn_02",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "18"
+  },
+  {
+    "prompt_id": "prompt_59",
+    "participant_id": "P12",
+    "turn": "turn_03",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "18"
+  },
+  {
+    "prompt_id": "prompt_60",
+    "participant_id": "P13",
+    "turn": "turn_01",
+    "participant_group": "FI",
+    "prompt_type": "initial",
+    "geft_score": "17"
+  },
+  {
+    "prompt_id": "prompt_61",
+    "participant_id": "P13",
+    "turn": "turn_02",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "17"
+  },
+  {
+    "prompt_id": "prompt_62",
+    "participant_id": "P13",
+    "turn": "turn_03",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "17"
+  },
+  {
+    "prompt_id": "prompt_63",
+    "participant_id": "P13",
+    "turn": "turn_04",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "17"
+  },
+  {
+    "prompt_id": "prompt_64",
+    "participant_id": "P13",
+    "turn": "turn_05",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "17"
+  },
+  {
+    "prompt_id": "prompt_65",
+    "participant_id": "P14",
+    "turn": "turn_01",
+    "participant_group": "FD",
+    "prompt_type": "initial",
+    "geft_score": "9"
+  },
+  {
+    "prompt_id": "prompt_66",
+    "participant_id": "P14",
+    "turn": "turn_02",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "9"
+  },
+  {
+    "prompt_id": "prompt_67",
+    "participant_id": "P15",
+    "turn": "turn_01",
+    "participant_group": "FI",
+    "prompt_type": "initial",
+    "geft_score": "16"
+  },
+  {
+    "prompt_id": "prompt_68",
+    "participant_id": "P15",
+    "turn": "turn_02",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "16"
+  },
+  {
+    "prompt_id": "prompt_69",
+    "participant_id": "P15",
+    "turn": "turn_03",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "16"
+  },
+  {
+    "prompt_id": "prompt_70",
+    "participant_id": "P16",
+    "turn": "turn_01",
+    "participant_group": "FI",
+    "prompt_type": "initial",
+    "geft_score": "17"
+  },
+  {
+    "prompt_id": "prompt_71",
+    "participant_id": "P16",
+    "turn": "turn_02",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "17"
+  },
+  {
+    "prompt_id": "prompt_72",
+    "participant_id": "P16",
+    "turn": "turn_03",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "17"
+  },
+  {
+    "prompt_id": "prompt_73",
+    "participant_id": "P16",
+    "turn": "turn_04",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "17"
+  },
+  {
+    "prompt_id": "prompt_74",
+    "participant_id": "P17",
+    "turn": "turn_01",
+    "participant_group": "FI",
+    "prompt_type": "initial",
+    "geft_score": "17"
+  },
+  {
+    "prompt_id": "prompt_75",
+    "participant_id": "P17",
+    "turn": "turn_02",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "17"
+  },
+  {
+    "prompt_id": "prompt_76",
+    "participant_id": "P17",
+    "turn": "turn_03",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "17"
+  },
+  {
+    "prompt_id": "prompt_77",
+    "participant_id": "P18",
+    "turn": "turn_01",
+    "participant_group": "FD",
+    "prompt_type": "initial",
+    "geft_score": "14"
+  },
+  {
+    "prompt_id": "prompt_78",
+    "participant_id": "P18",
+    "turn": "turn_02",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "14"
+  },
+  {
+    "prompt_id": "prompt_79",
+    "participant_id": "P19",
+    "turn": "turn_01",
+    "participant_group": "FD",
+    "prompt_type": "initial",
+    "geft_score": "15"
+  },
+  {
+    "prompt_id": "prompt_80",
+    "participant_id": "P19",
+    "turn": "turn_02",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "15"
+  },
+  {
+    "prompt_id": "prompt_81",
+    "participant_id": "P19",
+    "turn": "turn_03",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "15"
+  },
+  {
+    "prompt_id": "prompt_82",
+    "participant_id": "P20",
+    "turn": "turn_01",
+    "participant_group": "FI",
+    "prompt_type": "initial",
+    "geft_score": "18"
+  },
+  {
+    "prompt_id": "prompt_83",
+    "participant_id": "P20",
+    "turn": "turn_02",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "18"
+  },
+  {
+    "prompt_id": "prompt_84",
+    "participant_id": "P20",
+    "turn": "turn_03",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "18"
+  },
+  {
+    "prompt_id": "prompt_85",
+    "participant_id": "P20",
+    "turn": "turn_04",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "18"
+  },
+  {
+    "prompt_id": "prompt_86",
+    "participant_id": "P21",
+    "turn": "turn_01",
+    "participant_group": "FD",
+    "prompt_type": "initial",
+    "geft_score": "12"
+  },
+  {
+    "prompt_id": "prompt_87",
+    "participant_id": "P21",
+    "turn": "turn_02",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "12"
+  },
+  {
+    "prompt_id": "prompt_88",
+    "participant_id": "P22",
+    "turn": "turn_01",
+    "participant_group": "FD",
+    "prompt_type": "initial",
+    "geft_score": "12"
+  },
+  {
+    "prompt_id": "prompt_89",
+    "participant_id": "P22",
+    "turn": "turn_02",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "12"
+  },
+  {
+    "prompt_id": "prompt_90",
+    "participant_id": "P23",
+    "turn": "turn_01",
+    "participant_group": "FI",
+    "prompt_type": "initial",
+    "geft_score": "18"
+  },
+  {
+    "prompt_id": "prompt_91",
+    "participant_id": "P23",
+    "turn": "turn_02",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "18"
+  },
+  {
+    "prompt_id": "prompt_92",
+    "participant_id": "P23",
+    "turn": "turn_03",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "18"
+  },
+  {
+    "prompt_id": "prompt_93",
+    "participant_id": "P23",
+    "turn": "turn_04",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "18"
+  },
+  {
+    "prompt_id": "prompt_94",
+    "participant_id": "P26",
+    "turn": "turn_01",
+    "participant_group": "FI",
+    "prompt_type": "initial",
+    "geft_score": "17"
+  },
+  {
+    "prompt_id": "prompt_95",
+    "participant_id": "P26",
+    "turn": "turn_02",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "17"
+  },
+  {
+    "prompt_id": "prompt_96",
+    "participant_id": "P27",
+    "turn": "turn_01",
+    "participant_group": "FI",
+    "prompt_type": "initial",
+    "geft_score": "17"
+  },
+  {
+    "prompt_id": "prompt_97",
+    "participant_id": "P27",
+    "turn": "turn_02",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "17"
+  },
+  {
+    "prompt_id": "prompt_98",
+    "participant_id": "P28",
+    "turn": "turn_01",
+    "participant_group": "FD",
+    "prompt_type": "initial",
+    "geft_score": "15"
+  },
+  {
+    "prompt_id": "prompt_99",
+    "participant_id": "P28",
+    "turn": "turn_02",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "15"
+  },
+  {
+    "prompt_id": "prompt_100",
+    "participant_id": "P28",
+    "turn": "turn_03",
+    "participant_group": "FD",
+    "prompt_type": "refinement",
+    "geft_score": "15"
+  },
+  {
+    "prompt_id": "prompt_101",
+    "participant_id": "P29",
+    "turn": "turn_01",
+    "participant_group": "FI",
+    "prompt_type": "initial",
+    "geft_score": "17"
+  },
+  {
+    "prompt_id": "prompt_102",
+    "participant_id": "P29",
+    "turn": "turn_02",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "17"
+  },
+  {
+    "prompt_id": "prompt_103",
+    "participant_id": "P29",
+    "turn": "turn_03",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "17"
+  },
+  {
+    "prompt_id": "prompt_104",
+    "participant_id": "P29",
+    "turn": "turn_04",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "17"
+  },
+  {
+    "prompt_id": "prompt_105",
+    "participant_id": "P29",
+    "turn": "turn_05",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "17"
+  },
+  {
+    "prompt_id": "prompt_106",
+    "participant_id": "P29",
+    "turn": "turn_06",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "17"
+  },
+  {
+    "prompt_id": "prompt_107",
+    "participant_id": "P29",
+    "turn": "turn_07",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "17"
+  },
+  {
+    "prompt_id": "prompt_108",
+    "participant_id": "P29",
+    "turn": "turn_08",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "17"
+  },
+  {
+    "prompt_id": "prompt_109",
+    "participant_id": "P29",
+    "turn": "turn_09",
+    "participant_group": "FI",
+    "prompt_type": "refinement",
+    "geft_score": "17"
+  }
+]
