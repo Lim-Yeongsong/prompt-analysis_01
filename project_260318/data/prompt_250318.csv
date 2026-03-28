@@ -20,8 +20,8 @@ prompt_13,turn_08,P2,15,FD,refinement,,뭔가 대학생이 공부하는 느낌�
 prompt_14,turn_09,P2,15,FD,refinement,,이미지 만들어봐,,
 prompt_15,turn_01,P3,16,FI,initial,,우리학교는 건물이 많고 겹쳐져 있어 연결된 부분이 복잡하고 출구도 많아. 그래서 특정 목적지에 가기 위해서 지름길을 찾기 어렵고 방문자들이 길을 찾기 어려워하는 경우가 있어. 이 문제를 해결하기 위해 길 안내 디바이스를 만드려고 해 캡쳐한 화면의 왼쪽에 있는 표는 이 문제를 해결하기 위해서 내 아아디어를 구체화한 표야. 표를 기반으로 디바이스의 모습을 실물처럼 뽑아줘.,reference,P3_turn_01.png
 prompt_16,turn_02,P3,16,FI,refinement,,팀원들과 아이디어를 더 디벨롭해서 만들었어 이 기능들을 반영해서 실제 모습처럼 디벨롭한 이미지를 만들어줘,reference,P3_turn_02.png
-prompt_17,turn_01,P4,10,FD,initial,,이를 바탕으로 오른쪽 사진참고해서 야외의 느낌으로 제작해줘,reference,P3_turn_01_1.png
-prompt_17,turn_01,P4,10,FD,initial,,이를 바탕으로 오른쪽 사진참고해서 야외의 느낌으로 제작해줘,reference,P3_turn_01_2.png
+prompt_17,turn_01,P4,10,FD,initial,,이를 바탕으로 오른쪽 사진참고해서 야외의 느낌으로 제작해줘,reference,P3_turn_01.png
+prompt_17,turn_01,P4,10,FD,initial,,이를 바탕으로 오른쪽 사진참고해서 야외의 느낌으로 제작해줘,reference,P3_turn_02.png
 prompt_18,turn_02,P4,10,FD,refinement,,옆에 텍스트들은 빼주고 표지판 디자인은 트렌티하게 곡선적으로 해줘,,
 prompt_19,turn_03,P4,10,FD,refinement,,좀 더 안의 내용을 구체적으로 적어줄래,,
 prompt_20,turn_01,P5,16,FI,initial,,"학교 내 건물을 이동할 때 가장 최적화된 길을 알려주는 프로그램 이미지를 생성해 줘. 학교에 숨겨진 지름길을 알려하고 빨리 이동할 수 있는 방법을 설명해주는 프로그램이야. 기능은 몇동 몇층이 몇동 몇층과 이어지는지, 어떻게 갈 수 있는지(예: L동 엘레베이터를 타고 몇층까지 간다)알려줘. 예상 소요 시간과 예상 소모 체력 (HP?하트?)이 얼마나 되는지도 알려줘.",,

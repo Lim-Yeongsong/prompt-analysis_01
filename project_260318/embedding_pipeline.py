@@ -126,7 +126,7 @@ def add_prompt_combined(rows):
                 parts.append(f"[프롬프트] {raw}")
 
         # 이미지 캡션 부분 (있는 경우)
-        caption = r.get("image_caption_long", "").strip()
+        caption = r.get("image_caption", r.get("image_caption_long", "")).strip()
         if caption:
             parts.append(f"[참고이미지] {caption}")
 

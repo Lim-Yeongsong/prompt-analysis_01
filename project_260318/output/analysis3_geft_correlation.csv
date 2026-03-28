@@ -1,0 +1,7 @@
+﻿variable,label,pearson_r,p_value
+total_turns,Total Turns,-0.131,0.5141
+mean_char,Mean Char Count,0.175,0.3839
+total_char,Total Char Count,0.108,0.5903
+n_prompts,N Prompts,-0.155,0.4389
+refinement_ratio,Refinement Ratio,0.12,0.5497
+n_reference_img,N Ref Images,-0.488,0.0097
